@@ -7,7 +7,7 @@ description = {
   summary = "libYAML binding for Lua",
 }
 source = {
-  dir = "lyaml-release-v5.1.4",
+  dir = "lyaml-multiline-strings-release",
   url = "https://github.com/GUI/lyaml/archive/multiline-strings-release.zip",
 }
 dependencies = {
