@@ -7,7 +7,7 @@ description = {
   summary = "libYAML binding for Lua",
 }
 source = {
-  url = "git://github.com/gvvaughan/lyaml.git",
+  url = "git://github.com/GUI/lyaml.git",
 }
 dependencies = {
   "lua >= 5.1, < 5.4",
